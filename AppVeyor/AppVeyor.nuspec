@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AppVeyorTest</id>
+    <version>0.1.2</version>
+    <title>AppVeyorTestApp</title>
+    <authors>davidroberts63</authors>
+    <owners>davidroberts63</owners>
+    <description>Just testing</description>
+    <releaseNotes>Just testing</releaseNotes>
+  </metadata>
+</package>
